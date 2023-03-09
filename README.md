@@ -18,7 +18,7 @@
 
 Once you've run the project, you will see a list of stats on the console where each stat has `onDate` and `detail` properties. `onDate` is a String type indicating the date when the data is recorded while `detail` has `activeSeconds` property as a list of 24 integers indicating the 24 hours records in **seconds**.
 
-Please calculate the streak days (2 or more days with activity equal or over 60 seconds) and broken days (1 or more days with activity less than 60 seconds), and print the result on the console.
+**Please calculate the streak days (2 or more days with activity equal or over 60 seconds) and broken days (1 or more days with activity less than 60 seconds), and print the result on the console.**
 
 e.g. Assuming that we have stats on 2022-01-01, 2022-01-02, 2022-01-03, 2022-01-06, 2022-01-07, printing the result on the console would return this:
 
